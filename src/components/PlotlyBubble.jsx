@@ -1,12 +1,8 @@
-// src/components/PlotlyBubble.jsx
-import React from 'react';
-import Plot from 'react-plotly.js';
+import React from 'react'
+import Plot from 'react-plotly.js'
 
 export default function PlotlyBubble({ summaryData }) {
-  // summaryData is an array of objects:
-  // [{ keyword: 'pho', mentions: 12, avg_sent: 85.3, std_sent: 5.4 }, …]
-
-  const maxStd = Math.max(...summaryData.map((d) => d.std_sent));
+  const maxStd = Math.max(...summaryData.map((d) => d.std_sent))
 
   const traces = summaryData.map((d) => ({
     x: [d.mentions],
@@ -24,7 +20,7 @@ export default function PlotlyBubble({ summaryData }) {
       `<b>${d.keyword}</b><br>` +
       `Mentions: %{x}<br>` +
       `Avg Sentiment: %{y}<extra></extra>`,
-  }));
+  }))
 
   const layout = {
     title: 'Mentions vs. Avg Sentiment',
@@ -55,15 +51,26 @@ export default function PlotlyBubble({ summaryData }) {
         font: { size: 12, color: 'gray' },
       },
     ],
+    width: 700,
+    height: 400,
     margin: {
       l: 50,
       r: 50,
       t: 60,
       b: 100,
     },
-    width: 600,
-    height: 400,
-  };
+  }
 
-  return <Plot data={traces} layout={layout} config={{ responsive: true }} />;
+  return (
+    <div style={{ overflowX: 'auto', paddingBottom: '8px' }}>
+      <div style={{ width: '700px', margin: '0 auto' }}>
+        <Plot
+          data={traces}
+          layout={layout}
+          config={{ responsive: false }}
+          style={{ width: '700px', height: '400px' }}
+        />
+      </div>
+    </div>
+  )
 }
