@@ -9,6 +9,8 @@ Sentiment analysis of Pho Rowland, a friend's successful restaurant's Yelp revie
 => For actionable insights
 
 ## Preview:
+
+Live Demo: [shows-sentiments.vercel.app](https://shows-sentiments.vercel.app)
 ![Dashboard Pic 1](./public/dashboard3.png)
 ![Dashboard Pic 2](./public/dashboard2.png)
 
