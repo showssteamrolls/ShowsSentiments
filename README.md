@@ -8,7 +8,7 @@ Sentiment analysis of Pho Rowland, a friend's successful restaurant's Yelp revie
 => For actionable insights
 
 ## Preview:
-![Dashboard Pic 1](./public/dashboard1.png)
+![Dashboard Pic 1](./public/dashboard3.png)
 ![Dashboard Pic 2](./public/dashboard2.png)
 
 
