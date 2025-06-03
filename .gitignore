@@ -18,6 +18,5 @@ venv/
 .DS_Store
 
 # Data files
-*.csv
 *.xlsx
 node_modules
