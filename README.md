@@ -1,10 +1,11 @@
 ## ShowsSentiments
 Sentiment analysis of Pho Rowland, a friend's successful restaurant's Yelp reviews with VADER, aspect‑based scoring, and interactive visualizations
 
-– End‐to‐end sentiment‐analysis pipeline for Pho Rowland’s Yelp reviews. 
-– scrapes Yelp review text, computes overall and sentence‐level sentiment with VADER
-– performs aspect‐based sentiment extraction (food, service, price, etc)
-– dashboard of interactive plots (violin‐plots, bubble charts, co‐occurrence maps)
+- End‐to‐end sentiment‐analysis pipeline for Pho Rowland’s Yelp reviews. 
+- scrapes Yelp review text, computes overall and sentence‐level sentiment with VADER
+- performs aspect‐based sentiment extraction (food, service, price, etc)
+- dashboard of interactive plots (violin‐plots, bubble charts, co‐occurrence maps)
+
 => For actionable insights
 
 ## Preview:
