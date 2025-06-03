@@ -208,7 +208,7 @@ export default function App() {
             Yelp Stars Distribution
           </h2>
           <img
-            src="/stars.png"
+            src="/stars2.png"
             alt="Yelp Stars Distribution"
             className="w-full rounded"
             style={{ maxHeight: 400, objectFit: 'contain' }}
