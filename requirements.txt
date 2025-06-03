@@ -1,0 +1,12 @@
+altair
+dash
+matplotlib
+nltk
+numpy
+pandas
+seaborn
+selenium
+spacy
+vaderSentiment
+nrclex
+

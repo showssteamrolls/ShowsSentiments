@@ -20,3 +20,4 @@ venv/
 # Data files
 *.csv
 *.xlsx
+node_modules
