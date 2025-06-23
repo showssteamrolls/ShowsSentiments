@@ -11,7 +11,7 @@ Sentiment analysis of Pho Rowland, a friend's successful restaurant's Yelp revie
 ## Key Findings
 
 - Overall Sentiment is Strongly Positive
-=> Most reviews received high sentiment scores and 5-star ratings
+  - Most reviews received high sentiment scores and 5-star ratings
 
 - High Praise for Signature Dishes
 => Terms like pho, egg roll, banh xeo, and pork appear frequently and are associated with high sentiment (~ + 0.6)
