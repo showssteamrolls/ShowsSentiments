@@ -6,7 +6,7 @@ Sentiment analysis of Pho Rowland, a friend's successful restaurant's Yelp revie
 - performs aspect‐based sentiment extraction (food, service, price, etc)
 - dashboard of interactive plots (violin‐plots, bubble charts, co‐occurrence maps)
 
-=> For actionable insights
+All for actionable insights.
 
 ## Key Findings
 
