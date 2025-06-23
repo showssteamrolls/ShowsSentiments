@@ -60,8 +60,7 @@ Live Demo: [shows-sentiments.vercel.app](https://shows-sentiments.vercel.app)
 
 ## Files
 - `SentimentAnalysisPlayground.ipynb` – Core NLP analysis in Python (VADER, aspect scoring)
-- `cleaned_sentiment.csv` – Output of cleaned, structured sentiment data for dashboard
-- `scraper.py` – Yelp review scraper using Selenium (run locally)
+- `pho_rowland.csv` – Output of cleaned, structured sentiment data for dashboard
 - `requirements.txt` – Python dependencies (for analysis and scraping)
 - `src/` – React components for the dashboard (charts, word cloud, explorer, etc.)
 - `public/` – Static assets (e.g., images, sentiment visuals)
