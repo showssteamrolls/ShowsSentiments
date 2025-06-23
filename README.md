@@ -35,7 +35,7 @@ Because general sentiment is so high, it's paramount to continue what's working.
 - Leverage Service Strength
   - Perhaps salary raise, customers recurringly mention service as part of their positive experience
 
-- Upsell Niche Favorites
+- Promote Niche Favorites
   - Same story as the popular items, but these (tea, bun, rice) may be more important to promote; as they likely aren't spread by word-of-mouth as much, but are well-liked
 
 ## Preview:
