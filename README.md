@@ -49,15 +49,14 @@ Live Demo: [shows-sentiments.vercel.app](https://shows-sentiments.vercel.app)
 - **React** – Interactive frontend dashboard
 - **Tailwind CSS** – Component styling and layout
 - **Plotly.js** – Violin plots and bubble charts
-- **Recharts** – Bar chart visualizations
 - **Framer Motion** – UI transitions
 - **Vercel** – Frontend deployment
 - **PapaParse** – Client-side CSV parsing
-- **Python** (Jupyter Notebook) – Sentiment and aspect analysis
-- **VADER Sentiment** – Review-level sentiment scoring
-- **NRC Emotion Lexicon** – Fine-grained emotional scoring
+- **Python** (Jupyter Notebook) – Sentiment scoring
+- **VADER Sentiment** – General sentiment scoring
+- **NRC Emotion Lexicon** – Emotional sentiment scoring
 - **Selenium** – Initial data scraping
-- **Altair / Dash** – Early prototyping and validation
+- **Altair / Dash** – Early prototyping and visualization
 
 ## Files
 - `SentimentAnalysisPlayground.ipynb` – Core NLP analysis in Python (VADER, aspect scoring)
