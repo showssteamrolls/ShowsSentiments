@@ -30,7 +30,7 @@ Live Demo: [shows-sentiments.vercel.app](https://shows-sentiments.vercel.app)
 - **Altair / Dash** – Early prototyping and validation
 
 ## Files
-- `sentiment_analysis.ipynb` – Core NLP analysis in Python (VADER, aspect scoring)
+- `SentimentAnalysisPlayground.ipynb` – Core NLP analysis in Python (VADER, aspect scoring)
 - `cleaned_sentiment.csv` – Output of cleaned, structured sentiment data for dashboard
 - `scraper.py` – Yelp review scraper using Selenium (run locally)
 - `requirements.txt` – Python dependencies (for analysis and scraping)
