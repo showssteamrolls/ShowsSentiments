@@ -14,29 +14,29 @@ Sentiment analysis of Pho Rowland, a friend's successful restaurant's Yelp revie
   - Most reviews received high sentiment scores and 5-star ratings
 
 - High Praise for Signature Dishes
-=> Terms like pho, egg roll, banh xeo, and pork appear frequently and are associated with high sentiment (~ + 0.6)
+  - Terms like pho, egg roll, banh xeo, and pork appear frequently and are associated with high sentiment (~ + 0.6)
 
 - Solid Service
-=> The service aspect has a high average sentiment, frequently mentioned positively in reviews (especially "Henry" [~ + 0.73])
+  - The service aspect has a high average sentiment, frequently mentioned positively in reviews (especially "Henry" [~ + 0.73])
 
 - Some dishes/items have Low Mention but High Sentiment Items
-=> Keywords like tea and bun are niche but receive consistently positive feedback—hidden strengths
+  - Keywords like tea and bun are niche but receive consistently positive feedback—hidden strengths
 
 - Neglected or Weak Spots are Minimal
-=> Few keywords fall in the low sentiment/low mention quadrant, suggesting minimal recurring complaints
+  - Few keywords fall in the low sentiment/low mention quadrant, suggesting minimal recurring complaints
 
 ## Actionable Takeaways
 
 Because general sentiment is so high, it's paramount to continue what's working. Here are the key parts to keep up:
 
 - Double Down on Best-Sellers
-=> Shout the top dishes (pho, egg rolls, banh xeo) from the mountaintops! Do specials, bold them on the menus–– they are tried n' true
+  - Shout the top dishes (pho, egg rolls, banh xeo) from the mountaintops! Do specials, bold them on the menus–– they are tried n' true
 
 - Leverage Service Strength
-=> perhaps salary raise, customers recurringly mention service as part of their positive experience
+  - Perhaps salary raise, customers recurringly mention service as part of their positive experience
 
 - Upsell Niche Favorites
-=> Same story as the popular items, but these (tea, bun, rice) may be more important to promote; as they likely aren't spread by word-of-mouth as much, but are well-liked
+  - Same story as the popular items, but these (tea, bun, rice) may be more important to promote; as they likely aren't spread by word-of-mouth as much, but are well-liked
 
 ## Preview:
 
