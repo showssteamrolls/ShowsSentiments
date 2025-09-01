@@ -8,6 +8,8 @@ Sentiment analysis of Pho Rowland, a friend's successful restaurant's Yelp revie
 
 All for actionable insights.
 
+Quick how-to: Sentiment scores, calculated from positive and negative words in reviews, range from -1 to +1 (neg to pos), and charts visually show which dishes, services, and experiences drive positive or negative reactions. Instead of just raw numbers to assume performance, specific menu items stand out. Everything from which niche favorites quietly shine, to where there’s room to improve—all at a glance. GOAL: turn qualitative data, that being my friend's restaurant's Yelp reviews, into legibly quantitative, practical insights for business decisions.
+
 ## Key Findings
 
 - Overall Sentiment is Strongly Positive
@@ -30,7 +32,7 @@ All for actionable insights.
 Because general sentiment is so high, it's paramount to continue what's working. Here are the key parts to keep up:
 
 - Double Down on Best-Sellers
-  - Shout the top dishes (pho, egg rolls, banh xeo) from the mountaintops! Do specials, bold them on the menus–– they are tried n' true
+  - Shout the top dishes (pho, egg rolls, banh xeo) from the mountaintops! Do specials, bold them on the menus. By high mention and high sentiment, they are tried n' true
 
 - Leverage Service Strength
   - Perhaps salary raise, customers recurringly mention service as part of their positive experience
