@@ -8,7 +8,7 @@ Sentiment analysis of Pho Rowland, a friend's successful restaurant's Yelp revie
 
 All for actionable insights.
 
-Quick how-to: Sentiment scores, calculated from positive and negative words in reviews, range from -1 to +1 (neg to pos), and charts visually show which dishes, services, and experiences drive positive or negative reactions. Instead of just raw numbers to assume performance, specific menu items stand out. Everything from which niche favorites quietly shine, to where there’s room to improve—all at a glance. GOAL: turn qualitative data, that being my friend's restaurant's Yelp reviews, into legibly quantitative, practical insights for business decisions.
+Quick how-to: Sentiment scores are calculated from positive and negative words in reviews. The score'll range from -1 to +1 (neg to pos), and can be graphed on charts to visually show how much certain dishes, services, and experiences drive positive or negative reactions. Instead of just raw numbers to assume performance, specific menu items stand out. Everything from which niche favorites quietly shine, to where there’s room to improve—all at a glance. GOAL: turn qualitative data, that being my friend's restaurant's Yelp reviews, into legibly quantitative, practical insights for business decisions.
 
 ## Key Findings
 
