@@ -6,7 +6,6 @@ import SentimentChart from './components/SentimentChart';
 import WordCloud from './components/WordCloud';
 import PlotlyBubble from './components/PlotlyBubble';
 import ViolinPlot from './components/ViolinPlot';
-import SankeyVar from './components/SankeyVar';
 import { ErrorBoundary } from 'react-error-boundary';
 
 export default function App() {
@@ -79,14 +78,6 @@ export default function App() {
                 <p className="text-sm"><span className="font-semibold">Sentiment Score:</span> <span className={sentimentColor}>{review.sentiment_score}</span></p>
                 <p className="text-sm text-gray-500">{review.stars} star{review.stars===1?'':'s'}</p>
             </motion.div>
-
-            {/* Sankey directly under Review Explorer */}
-            <div className="px-8 mb-12">
-                <motion.div initial={{ opacity:0, y:20 }} animate={{ opacity:1, y:0 }} transition={{ duration:0.6 }} className="bg-gray-50 rounded-2xl shadow-lg p-6">
-                    <h2 className="text-2xl font-semibold mb-4">Keywords → Variability (std buckets)</h2>
-                    <SankeyVar csvUrl="/cleaned_sentiment_keywords.csv" topN={15} twoStep={false} height={520} />
-                </motion.div>
-            </div>
 
             <div className="px-8 grid md:grid-cols-2 gap-8 mb-12">
                 <motion.div key={keyword+'-chart'} initial={{ opacity:0, scale:0.9, rotate:-2 }} animate={{ opacity:1, scale:1, rotate:0 }} transition={{ duration:0.6 }} className="bg-gray-50 rounded-2xl shadow-lg p-6">
